@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(255, 193, 193);
+}
+h1{
+    text-align: center;
+    color: black;
+}
+p{
+    font-size: large;
+    color: blue;
+}
+#dodaj{
+    background-color: green;
+}
+#usun{
+    background-color: red;
+}
